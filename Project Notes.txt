@@ -1,0 +1,35 @@
+
+
+Tutorials link: 
+Typescript site
+http://www.typescriptlang.org/docs/handbook/basic-types.html
+http://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+Typescript repo
+https://github.com/Microsoft/TypeScript
+
+Tutorialspoint
+https://www.tutorialspoint.com/typescript/
+Tutorialsteacher: 
+https://www.tutorialsteacher.com/typescript
+
+
+Watch: 
+> tsc main.ts --watch
+
+
+
+
+Introduction: TMP
+TypeScript is a superset of JavaScript that compiles to plain javascript.
+
+TypeScript gets more and more popular in the Front-end environment. Nowadays,
+
+TypeScript is a superset of JavaScript which primarily provides optional 
+static typing, classes and interfaces. One of the big benefits 
+is to enable IDEs to provide a richer environment 
+for spotting common errors as you type the code.
+
+
+JavaScript is dynamically typed. This means JavaScript does not know what type a variable is until it is actually instantiated at run-time. This also means that it may be too late. TypeScript adds type support to JavaScript. Bugs that are caused by false assumptions of some variable being of a certain type can be completely eradicated if you play your cards right (how strict you type your code or if you type your code at all is up to you).
+
+

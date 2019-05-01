@@ -92,15 +92,15 @@ disp();
 
 
 //Function Overloads
-function dispN(s1:string):void; 
-function dispN(n1:number,s1:string):void; 
+function dispN(s1: string): void;
+function dispN(n1: number, s1: string): void;
 
-function dispN(x:any,y?:any):void { 
-   console.log(x); 
-   console.log(y); 
-} 
-dispN("abc") 
-dispN(1,"xyz");
+function dispN(x: any, y?: any): void {
+    console.log(x);
+    console.log(y);
+}
+dispN("abc")
+dispN(1, "xyz");
 
 
 
